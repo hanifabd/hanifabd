@@ -6,7 +6,7 @@
 
 I am based in Central Java, Indonesia now. I am a Data Science enthusiasts with experience in natural language tasks especially. Currently focusing to improve my data science skill especially analytics, nlp, computer vision task and some design stuff, hehe. 
 
-👀 By the way. I am quite interesting to make some project related to smart city and agriculture.
+👀 By the way. I am for part-time project related to smart city, agriculture, and others.
 
 I am inviting you to connect with me! jump to my 🌎 **[Personal Repository](https://hanifabdlh.vercel.app/)** here, it is my pleasure to connect with you 🙌.
 
