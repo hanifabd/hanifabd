@@ -8,7 +8,7 @@ Experience implementing machine learning algorithms especially Natural Language 
 
 Thanks for stopping by. Feel free to reach me through any channel. I'm excited to connect with you all. If you have a projects and desire to collaborate with me, I'd love to hear from you.
 
-<a href="https://hanifabdlh.now.sh" target="_blank">
+<br/><a href="https://hanifabdlh.now.sh" target="_blank">
   <img src="https://github.com/user-attachments/assets/216fa65b-8936-4221-a690-63608dc1abf0" width="100px">
 </a>
 
