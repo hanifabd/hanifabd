@@ -1,7 +1,4 @@
-<!-- <div align="center"><a href="#"><img src="https://github.com/user-attachments/assets/81a3a860-7d67-4f36-acee-ae43ca7cdb7b"></a></div> -->
-
-### **Glad to have you here! 👋**
-
+### **Glad to have you here!** <img src="https://github.com/user-attachments/assets/e1b682d4-ca3d-4140-9b5c-9d3bcda6bc66" height="28">
 
 ### **I'm Hanif, Data Science and AI Software Engineer based in Central Java, Indonesia.** <img src="https://github.com/user-attachments/assets/37558035-c701-4575-b427-6d4720b70a41" height="16">
 
