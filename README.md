@@ -4,7 +4,7 @@
 
 **I'm Hanif, Data Science and AI Software Engineer based in Central Java, Indonesia.**
 
-Experience implementing machine learning algorithms especially Natural Language Processing and Computer Vision tasks; Relevant skills including data science, data analytics and business intelligence. Currently focusing to improve my data science skill especially analytics, nlp, computer vision task and some design stuff, hehe. 
+Experienced implementing machine learning algorithms especially Natural Language Processing and Computer Vision tasks; Relevant skills including data science, data analytics and business intelligence. Currently focusing to improve my data science skill especially analytics, nlp, computer vision task and some design stuff, hehe. 
 
 Thanks for stopping by. Feel free to reach me through any channel. I'm excited to connect with you all. If you have a projects and desire to collaborate with me, I'd love to hear from you.
 
