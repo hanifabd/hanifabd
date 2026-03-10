@@ -2,7 +2,7 @@
 
 **Glad to have you here!** <img src="https://github.com/user-attachments/assets/e1b682d4-ca3d-4140-9b5c-9d3bcda6bc66" height="18">
 
-**I'm Hanif, Data Science and AI Software Engineer based in Central Java, Indonesia.**
+**I'm Hanif, Data Science and AI Software Engineer based in Indonesia.**
 
 Experienced implementing machine learning algorithms especially Natural Language Processing and Computer Vision tasks; Relevant skills including data science, data analytics and business intelligence. Currently focusing to improve my data science skill especially analytics, nlp, computer vision task and some design stuff, hehe. 
 
