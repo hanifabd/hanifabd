@@ -8,11 +8,11 @@ Experienced implementing machine learning algorithms especially Natural Language
 
 Thanks for stopping by. Feel free to reach me through any channel. I'm excited to connect with you all. If you have a projects and desire to collaborate with me, I'd love to hear from you.
 
-**Visit to Find Private Projects:** [offwht-github](https://github.com/offwht-layers)
+<!-- **Visit to Find Private Projects:** [offwht-github](https://github.com/offwht-layers) -->
 
-<!-- <br/><a href="https://hanifabdlh.now.sh" target="_blank">
+<br/><a href="https://hanifabdlh.now.sh" target="_blank">
   <img src="https://github.com/user-attachments/assets/216fa65b-8936-4221-a690-63608dc1abf0" width="100px">
-</a> -->
+</a>
 
 <!-- **Support Me:**
 <a href="https://sociabuzz.com/hanifabdlh"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9077f7bd765069670bb60e47263a661f/sociabuzz.png" height="36"></a>
